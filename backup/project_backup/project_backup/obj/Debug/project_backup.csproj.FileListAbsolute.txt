@@ -1,0 +1,8 @@
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Debug\project_backup.exe.config
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Debug\project_backup.exe
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Debug\project_backup.pdb
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\obj\Debug\project_backup.csprojResolveAssemblyReference.cache
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\obj\Debug\project_backup.exe
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\obj\Debug\project_backup.pdb
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Debug\Newtonsoft.Json.xml

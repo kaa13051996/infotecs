@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <parameters>
+    <parameter name="update_frequency">
+      <value>5</value>
+    </parameter>
+  </parameters>
+  <channels>
+    <channel name="Habbr">
+      <link>https://habr.com/rss/interesting/</link>
+    </channel>
+    <channel name="SecurityLab">
+      <link>https://www.securitylab.ru/_Services/Export/RSS/news/</link>
+    </channel>
+  </channels>
+</settings>

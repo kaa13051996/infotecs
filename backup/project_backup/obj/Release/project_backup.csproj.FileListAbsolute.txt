@@ -1,0 +1,7 @@
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Release\project_backup.exe.config
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Release\project_backup.exe
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Release\project_backup.pdb
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Release\Newtonsoft.Json.dll
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\bin\Release\Newtonsoft.Json.xml
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\obj\Release\project_backup.exe
+C:\Users\Alisa\Documents\infotecs\project_backup\project_backup\obj\Release\project_backup.pdb

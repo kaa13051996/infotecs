@@ -1,4 +1,4 @@
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
@@ -50,6 +50,7 @@ namespace Backup
             }
             CreateFileEvent(log);
             Console.WriteLine("\nКопирование завершено. Название файла журнала: {0}", Path.GetFullPath(log.path));
+            Console.ReadKey();
         }
 
         static void SaveFile(string path, string json, Journal log)
